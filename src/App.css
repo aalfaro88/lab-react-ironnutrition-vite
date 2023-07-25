@@ -40,3 +40,29 @@
 .read-the-docs {
   color: #888;
 }
+
+img{
+  height: 70px;
+}
+
+.Table {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+}
+
+.foodData {
+  width: 30%;
+  border: solid rgb(212, 212, 212);
+  margin: 10px;
+}
+
+.tableContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  margin-bottom: 10px;
+}
